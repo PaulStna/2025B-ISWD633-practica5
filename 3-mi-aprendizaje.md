@@ -1,3 +1,2 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+# Mi Aprendizaje
+Antes de la práctica ya conocía el funcionamiento de Docker Compose y cómo gestiona varios contenedores o servicios, después de realizarla reforcé mis conocimientos al aplicar configuraciones de servicios, redes y dependencias durante los ejercicios propuestos. Además, aprendí a listar y eliminar contenedores utilizando la línea de comandos, ya que antes solo realizaba esas acciones desde la interfaz gráfica.
